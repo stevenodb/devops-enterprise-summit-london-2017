@@ -3,6 +3,17 @@
 ## DevOps: Who Does What? —Cornelia Davis, Pivotal
 
 ## The Key to High Performance: What the Data Says —Gene Kim, Dr. Nicole Forsgren, Jez Humble, Nigel Kersten
+The state of devops report tells us how different companies are performing when it comes to devops practices and what this means for the quality, stability and throughput of their software, with respect to each other.
+
+Some key findings:
+* Loosely coupled architectures and teams are the strongest predictor of continuous delivery
+* DevOps applies to all kinds of organizations (profit and non-profit, mainframe vs microservices, etc)
+* Transformational leaders share five common characteristics that significantly shape an organization's culture and practices, leading to high performance
+* High-performing teams continue to achieve both faster throughput and better stability
+
+[State of devops report]: https://puppet.com/system/files/2017-06/2017-state-of-devops-report_3.pdf
+[Youtube]: https://www.youtube.com/watch?v=pxqGcYkEOWA
+
 
 ## What Does it Mean to Lead IT? —Mark Schwartz
 
