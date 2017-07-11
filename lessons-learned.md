@@ -1,6 +1,10 @@
 # Summary of the DevOps Enterprise Summit 2017
 
 ## DevOps: Who Does What? —Cornelia Davis, Pivotal
+If you're asking yourself how the operators, middleware people, developers, architects etc should be cooperating, watch this talk.
+Cornelia Davis gives us a blueprint for a new organisational structure within an IT department that is suited for the new devops practices and toolsets. She starts from a classic siloed, waterfall organisation where work is thrown over the wall and step by step she moves all roles and responsabilities to 4 new 'houses'.
+
+[Youtube]: https://youtu.be/k3n9B399Roc
 
 ## The Key to High Performance: What the Data Says —Gene Kim, Dr. Nicole Forsgren, Jez Humble, Nigel Kersten
 The state of devops report tells us how different companies are performing when it comes to devops practices and what this means for the quality, stability and throughput of their software, with respect to each other.
